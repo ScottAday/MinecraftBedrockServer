@@ -48,6 +48,7 @@ sudo apt-get install screen unzip wget -y
 sudo apt-get install net-tools -y
 sudo apt-get install libcurl4 -y
 sudo apt-get install openssl -y
+sudo apt-get install awscli -y
 
 # Check to see if Minecraft server main directory already exists
 cd ~
